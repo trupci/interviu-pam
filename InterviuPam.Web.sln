@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviuPam.Web", "InterviuPam.Web\InterviuPam.Web.csproj", "{6DBE4A83-0A49-4A3E-AC8B-847AFD050FD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviuPam.Tests", "InterviuPam.Tests\InterviuPam.Tests.csproj", "{ED7341B8-2198-435C-A539-8C660AC70823}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DBE4A83-0A49-4A3E-AC8B-847AFD050FD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DBE4A83-0A49-4A3E-AC8B-847AFD050FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DBE4A83-0A49-4A3E-AC8B-847AFD050FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DBE4A83-0A49-4A3E-AC8B-847AFD050FD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED7341B8-2198-435C-A539-8C660AC70823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED7341B8-2198-435C-A539-8C660AC70823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED7341B8-2198-435C-A539-8C660AC70823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED7341B8-2198-435C-A539-8C660AC70823}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61E2B352-E0B2-4FD4-B452-2E0C537162B8}
+	EndGlobalSection
+EndGlobal
